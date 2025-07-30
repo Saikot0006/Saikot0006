@@ -21,6 +21,8 @@
 
 ### 📊 GitHub Stats
 
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saikot0006&theme=tokyonight)
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Saikot0006&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
 </p>
